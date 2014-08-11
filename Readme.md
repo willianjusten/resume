@@ -10,6 +10,7 @@ I'm a front-end engineer that loves to work with challenging and creative projec
 
 I love to work and colaborate with teams and I'm good comunicator too. In my spare time I like to teach my friends about something that I've learned.
 
+
 ##Skills
 
 * HTML - Jade - Haml
@@ -24,21 +25,15 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Work Experience
 
-**Frontend Engineer** - Maxisite Comunicação Digital
-
-January 2013 - Present
+**Frontend Engineer** - Maxisite Comunicação Digital - January 2013 - Present
 
 > Development of websites, tools and applications for mobile and desktop, using HTML, CSS and JS for frontend and PHP/MySQL for backend.
 
-**Computer Teacher** - Index Cursos Profissionais
-
-May 2012 - December 2012
+**Computer Teacher** - Index Cursos Profissionais - May 2012 - December 2012
 
 > I acted as a teacher for children, adults and elderly, teaching Office (Excel, Word, Powerpoint, Access), Windows and Linux.
 
-**Student Researcher** - Conselho Nacional de Desenvolvimento Científico e Tecnológico
-
-January 2009 - January 2011 
+**Student Researcher** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - January 2009 - January 2011 
 
 > I worked with computacional chemistry, molecular modeling study and chemical interactions. Using Linux and Windows, virtualization, Remote Access via rdp and ssh.
 
