@@ -16,6 +16,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 ##Skills
 
 * HTML - Jade - Haml
+* Responsive Design (Mobile First)
 * CSS (Less, Sass, Stylus)
 * CSS Frameworks (Bootstrap, Foundation, Pure)
 * Javascript - Jquery - AngularJS
