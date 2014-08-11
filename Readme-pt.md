@@ -6,6 +6,7 @@
 
 **E-mail:** willianjustenqui@gmail.com
 
+**Skype:** willianjusten
 
 ##Sobre mim
 Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Minha carreira começou em 2012 e desde então, eu tenho adquirido experiência todos os dias. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
