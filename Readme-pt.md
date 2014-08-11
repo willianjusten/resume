@@ -43,7 +43,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 **TI em Instituto Superior de Tecnologia - IST** - Junho 2012 - Dezembro 2014
 
-**Químico Industrial na Universidade Federal Fluminense** - Março 2008 - Julho 2012 (Trancado)
+**Química Industrial na Universidade Federal Fluminense** - Março 2008 - Julho 2012 (Trancado)
 
 
 ##Cursos
