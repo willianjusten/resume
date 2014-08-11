@@ -34,7 +34,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 > Eu atuei como professor para crianças, adultos e idosos, ensinando pacote Office (Excel, Word, Powerpoint, Access), Windows e Linux.
 
-**Estudante de Iniciação Científica** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - January 2009 - Janeiro 2011 
+**Estudante de Iniciação Científica** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - Janeiro 2009 - Janeiro 2011 
 
 > Eu trabalhei com química computacional, estudo de modelagem molecular e interações químicas. Usando Linux e Windows, Virtualização, Acesso Remoto via rdp e ssh.
 
