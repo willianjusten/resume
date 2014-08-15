@@ -8,6 +8,8 @@
 
 **Skype:** willianjusten
 
+**Github:** willianjusten
+
 ##About me
 I'm a front-end engineer that loves to work with challenging and creative projects. My career started in 2012 and since then I have gained experience everyday. As a programmer I'm in a constantly search for better practices and also experimenting new things.
 
