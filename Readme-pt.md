@@ -24,13 +24,13 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Javascript - Jquery - AngularJS
 * Grunt - Gulp - Yeoman
 * Git
-* PHP 
+* PHP
 * Python
 * Mysql - MongoDB
 
 ##Experiência Profissional
 
-**Desenvolvedor Front-end** - Maxisite Comunicação Digital - Janeiro 2013 - Atualmente
+**Desenvolvedor Front-end** - Maxisite Comunicação Digital - Janeiro 2013 - Agosto 2014
 
 > Desenvolvimento de sites, ferramentas e aplicações para mobile e desktop, utilizando HTML, CSS e JS para o front-end e PHP/MySQL para o backend.
 
@@ -38,7 +38,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 > Eu atuei como professor para crianças, adultos e idosos, ensinando pacote Office (Excel, Word, Powerpoint, Access), Windows e Linux.
 
-**Estudante de Iniciação Científica** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - Janeiro 2009 - Janeiro 2011 
+**Estudante de Iniciação Científica** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - Janeiro 2009 - Janeiro 2011
 
 > Eu trabalhei com química computacional, estudo de modelagem molecular e interações químicas. Usando Linux e Windows, Virtualização, Acesso Remoto via rdp e ssh.
 

@@ -25,13 +25,13 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * Javascript - Jquery - AngularJS
 * Grunt - Gulp - Yeoman
 * Git
-* PHP 
+* PHP
 * Python
 * Mysql - MongoDB
 
 ##Work Experience
 
-**Frontend Engineer** - Maxisite Comunicação Digital - January 2013 - Present
+**Frontend Engineer** - Maxisite Comunicação Digital - January 2013 - August 2014
 
 > Development of websites, tools and applications for mobile and desktop, using HTML, CSS and JS for frontend and PHP/MySQL for backend.
 
@@ -39,7 +39,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 > I acted as a teacher for children, adults and elderly, teaching Office (Excel, Word, Powerpoint, Access), Windows and Linux.
 
-**Student Researcher** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - January 2009 - January 2011 
+**Student Researcher** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - January 2009 - January 2011
 
 > I worked with computacional chemistry, molecular modeling study and chemical interactions. Using Linux and Windows, virtualization, Remote Access via rdp and ssh.
 
