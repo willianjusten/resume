@@ -61,6 +61,9 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Web Development Track (Teamthreehouse)
 
 
+##Extras
+
+* Palestrante no Frontin Bahia 2014 - Play SVG
 
 
 

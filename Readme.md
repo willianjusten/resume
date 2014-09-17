@@ -61,7 +61,9 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * MongoDB for Node.js Developers (Mongo University)
 * Web Development Track (Teamthreehouse)
 
+##Extras
 
+* Speaker at Frontin Bahia 2014 - Play SVG
 
 
 
