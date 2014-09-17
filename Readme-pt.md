@@ -30,6 +30,10 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Experiência Profissional
 
+**Desenvolvedor Front-end** - Queremos! / WeDemand - Agosto 2014 - Atualmente
+
+> Desenvolvimento de novas funcionalidades para o sistema e outras necessidades do produto. Trabalhando junto com os designers para criação da melhor experiência de usuário possível, utilizando HTML, CSS, JS e outras ferramentas necessárias para o desenvolvimento da funcionalidade. 
+
 **Desenvolvedor Front-end** - Maxisite Comunicação Digital - Janeiro 2013 - Agosto 2014
 
 > Desenvolvimento de sites, ferramentas e aplicações para mobile e desktop, utilizando HTML, CSS e JS para o front-end e PHP/MySQL para o backend.

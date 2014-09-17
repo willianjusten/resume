@@ -31,6 +31,10 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Work Experience
 
+**Frontend Engineer** - Queremos! / WeDemand - August 2014 - Present
+
+> Development of new features to the site, backstage administration and another stuff for the product. Help designers to create the best UX/UI, using Html5, CSS, JS, etc...
+
 **Frontend Engineer** - Maxisite Comunicação Digital - January 2013 - August 2014
 
 > Development of websites, tools and applications for mobile and desktop, using HTML, CSS and JS for frontend and PHP/MySQL for backend.
