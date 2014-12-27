@@ -32,7 +32,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 **Desenvolvedor Front-end** - Queremos! / WeDemand - Agosto 2014 - Atualmente
 
-> Desenvolvimento de novas funcionalidades para o sistema e outras necessidades do produto. Trabalhando junto com os designers para criação da melhor experiência de usuário possível, utilizando HTML, CSS, JS e outras ferramentas necessárias para o desenvolvimento da funcionalidade. 
+> Desenvolvimento de novas funcionalidades para o sistema e outras necessidades do produto. Trabalhando junto com os designers para criação da melhor experiência de usuário possível, utilizando HTML, CSS, JS e outras ferramentas necessárias para o desenvolvimento da funcionalidade.
 
 **Desenvolvedor Front-end** - Maxisite Comunicação Digital - Janeiro 2013 - Agosto 2014
 
@@ -64,7 +64,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 ##Extras
 
 * Palestrante no Frontin Bahia 2014 - Play SVG
-
+* Criador da Awesome-SVG list
 
 
 

@@ -64,6 +64,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 ##Extras
 
 * Speaker at Frontin Bahia 2014 - Play SVG
+* Creater of Awesome-SVG list
 
 
 
