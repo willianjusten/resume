@@ -4,6 +4,8 @@
 
 **Phone Number:** +55 (24) 99997-5777
 
+**Blog:** [willianjusten.com.br](http://willianjusten.com.br)
+
 **E-mail:** willianjustenqui@gmail.com
 
 **Skype:** willianjusten
