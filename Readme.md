@@ -20,16 +20,19 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Skills
 
-* HTML - Jade - Haml
-* Responsive Design (Mobile First)
-* CSS (Less, Sass, Stylus)
-* CSS Frameworks (Bootstrap, Foundation, Pure)
-* Javascript - Jquery - AngularJS
+* HTML - Jade - Haml - Erb
+* Design Responsivo (Mobile First and adaptative)
+* CSS (Stylus, Sass, Less)
+* Css Frameworks (Bootstrap, Foundation)
+* Javascript (Design Patterns, Tests)
+* AngularJS
 * Grunt - Gulp - Yeoman
 * Git
 * PHP
 * Python
-* Mysql - MongoDB
+* NodeJS
+* MySQL - MongoDB
+* Learn Fast
 
 ##Work Experience
 

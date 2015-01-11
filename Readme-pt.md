@@ -19,16 +19,19 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Habilidades
 
-* HTML - Jade - Haml
-* Design Responsivo (Mobile First)
-* CSS (Less, Sass, Stylus)
-* CSS Frameworks (Bootstrap, Foundation, Pure)
-* Javascript - Jquery - AngularJS
+* HTML - Jade - Haml - Erb
+* Design Responsivo (Mobile First e adaptativo)
+* CSS (Stylus, Sass, Less)
+* Css Frameworks (Bootstrap, Foundation)
+* Javascript (Design Patterns, Testes)
+* AngularJS
 * Grunt - Gulp - Yeoman
 * Git
 * PHP
 * Python
-* Mysql - MongoDB
+* NodeJS
+* MySQL - MongoDB
+* Aprendo rápido
 
 ##Experiência Profissional
 
