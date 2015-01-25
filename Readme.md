@@ -21,7 +21,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 ##Skills
 
 * HTML - Jade - Haml - Erb
-* Design Responsivo (Mobile First and adaptative)
+* Design Responsivo (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
 * Javascript (Design Patterns, Tests)
@@ -32,7 +32,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * Python
 * NodeJS
 * MySQL - MongoDB
-* Learn Fast
+* Scrum and Kanban
 
 ##Work Experience
 
@@ -70,6 +70,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 * Speaker at Frontin Bahia 2014 - Play SVG
 * Creater of Awesome-SVG list
+* Translator of SVG Pocket Guide by Joni Trythall
 
 
 

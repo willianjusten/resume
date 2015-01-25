@@ -20,7 +20,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 ##Habilidades
 
 * HTML - Jade - Haml - Erb
-* Design Responsivo (Mobile First e adaptativo)
+* Design Responsivo (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
 * Javascript (Design Patterns, Testes)
@@ -31,7 +31,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Python
 * NodeJS
 * MySQL - MongoDB
-* Aprendo rápido
+* Scrum and Kanban
 
 ##Experiência Profissional
 
@@ -70,6 +70,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 * Palestrante no Frontin Bahia 2014 - Play SVG
 * Criador da Awesome-SVG list
+* Tradutor do SVG Pocket Guide
 
 
 
