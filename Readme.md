@@ -36,7 +36,11 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Work Experience
 
-**Frontend Engineer** - Queremos! / WeDemand - August 2014 - Present
+**Frontend Engineer** - Globo.com - March 2015 - Present
+
+>I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python or Ruby, with version control using GIT.
+
+**Frontend Engineer** - Queremos! / WeDemand - August 2014 - March 2015
 
 > Development of new features to the site, backstage administration and another stuff for the product. Help designers to create the best UX/UI, using Html5, CSS, JS, etc...
 
