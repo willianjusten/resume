@@ -26,18 +26,20 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Javascript (Design Patterns, Testes)
 * AngularJS
 * Grunt - Gulp - Yeoman
+* NodeJS
 * Git
 * PHP
 * Python
-* NodeJS
+* Django
 * MySQL - MongoDB
+* TDD e Integração Contínua
 * Scrum and Kanban
 
 ##Experiência Profissional
 
 **Densenvolvedor Front End** - Globo.com - Março 2015 - Atualmente
 
-> Desenvolvimento de aplicações de alta escalabilidade para o globoesporte.com. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML, performance e SEO. A maioria dos projetos são desenvolvidos em Python ou Ruby, com o GIT como controle de versão.
+> Desenvolvimento de aplicações de alta escalabilidade para o globoesporte.com. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML, performance e SEO. A maioria dos projetos são desenvolvidos em Python com o GIT como controle de versão.
 
 **Desenvolvedor Front End** - Queremos! / WeDemand - Agosto 2014 - Março 2015
 
@@ -65,6 +67,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Cursos
 
+* Testing & Refactoring with Continuous Delivery (Industrial Logic)
 * Learning to Program in Python - University of Toronto (Coursera)
 * MongoDB for Node.js Developers (Mongo University)
 * Web Development Track (Teamthreehouse)
@@ -73,6 +76,8 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 ##Extras
 
 * Palestrante no Frontin Bahia 2014 - Play SVG
+* Palestrante no GDG BH 2015 - Criando experiências com SVG
+* Palestrante no Barra.JS - Primeiros passos com SVG
 * Criador da Awesome-SVG list
 * Tradutor do SVG Pocket Guide
 

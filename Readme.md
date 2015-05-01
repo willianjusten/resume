@@ -27,18 +27,20 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * Javascript (Design Patterns, Tests)
 * AngularJS
 * Grunt - Gulp - Yeoman
+* NodeJS
 * Git
 * PHP
 * Python
-* NodeJS
+* Django
 * MySQL - MongoDB
+* TDD and Continuous Integration
 * Scrum and Kanban
 
 ##Work Experience
 
 **Frontend Engineer** - Globo.com - March 2015 - Present
 
->I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python or Ruby, with version control using GIT.
+>I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
 
 **Frontend Engineer** - Queremos! / WeDemand - August 2014 - March 2015
 
@@ -66,6 +68,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Courses
 
+* Testing & Refactoring with Continuous Delivery (Industrial Logic)
 * Learning to Program in Python - University of Toronto (Coursera)
 * MongoDB for Node.js Developers (Mongo University)
 * Web Development Track (Teamthreehouse)
@@ -73,7 +76,9 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 ##Extras
 
 * Speaker at Frontin Bahia 2014 - Play SVG
-* Creater of Awesome-SVG list
+* Speaker at Google Developers Group BH 2015 - Criando experiências com SVG
+* Speaker at Barra.JS - Primeiro passos com SVG
+* Creator of Awesome-SVG list
 * Translator of SVG Pocket Guide by Joni Trythall
 
 
