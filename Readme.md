@@ -1,6 +1,6 @@
 #Willian Justen de Vasconcellos
 
-**Location:** Petrópolis-RJ - Brazil
+**Location:** Rio de Janeiro-RJ - Brazil
 
 **Phone Number:** +55 (24) 99997-5777
 
