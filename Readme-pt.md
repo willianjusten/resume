@@ -20,24 +20,22 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 ##Habilidades
 
 * HTML - Jade - Haml - Erb
-* Design Responsivo (Mobile First)
+* Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
-* Javascript (Design Patterns, Testes)
-* AngularJS
+* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * Grunt - Gulp - Yeoman
 * NodeJS
 * Git
 * PHP
-* Python
-* Django
+* Python (Django, Flask)
 * MySQL - MongoDB
-* TDD e Integração Contínua
+* TDD and Integração Contínua
 * Scrum and Kanban
 
 ##Experiência Profissional
 
-**Densenvolvedor Front End** - Globo.com - Março 2015 - Atualmente
+**Engenheiro de Software** - Globo.com - Março 2015 - Atualmente
 
 > Desenvolvimento de aplicações de alta escalabilidade para o globoesporte.com. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML, performance e SEO. A maioria dos projetos são desenvolvidos em Python com o GIT como controle de versão.
 

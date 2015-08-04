@@ -24,21 +24,19 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
-* Javascript (Design Patterns, Tests)
-* AngularJS
+* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * Grunt - Gulp - Yeoman
 * NodeJS
 * Git
 * PHP
-* Python
-* Django
+* Python (Django, Flask)
 * MySQL - MongoDB
 * TDD and Continuous Integration
 * Scrum and Kanban
 
 ##Work Experience
 
-**Frontend Engineer** - Globo.com - March 2015 - Present
+**Software Engineer** - Globo.com - March 2015 - Present
 
 >I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
 
