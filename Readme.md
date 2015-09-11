@@ -76,6 +76,7 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 * Speaker at Frontin Bahia 2014 - Play SVG
 * Speaker at Google Developers Group BH 2015 - Criando experiências com SVG
 * Speaker at Barra.JS - Primeiro passos com SVG
+* Speaker at SEMCOMP 2015 - Criando experiências com SVG
 * Creator of Awesome-SVG list
 * Translator of SVG Pocket Guide by Joni Trythall
 
