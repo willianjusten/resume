@@ -77,6 +77,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Palestrante no GDG BH 2015 - Criando experiências com SVG
 * Palestrante no Barra.JS - Primeiros passos com SVG
 * Palestrante na SEMCOMP 2015 - Criando experiências com SVG
+* Palestrante na Imasters RJ 2015 - Passos para se ter um projeto com Qualidade
 * Criador da Awesome-SVG list
 * Tradutor do SVG Pocket Guide
 
