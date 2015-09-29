@@ -73,13 +73,14 @@ I love to work and colaborate with teams and I'm good comunicator too. In my spa
 
 ##Extras
 
-* Speaker at Frontin Bahia 2014 - Play SVG
-* Speaker at Google Developers Group BH 2015 - Criando experiências com SVG
-* Speaker at Barra.JS - Primeiro passos com SVG
-* Speaker at SEMCOMP 2015 - Criando experiências com SVG
-* Speaker at Imasters RJ 2015 - Passos para se ter um projeto com Qualidade
-* Creator of Awesome-SVG list
-* Translator of SVG Pocket Guide by Joni Trythall
+* Speaker at Frontin Bahia 2014 - [Play SVG](http://bit.ly/frontin-bahia-2014)
+* Speaker at Google Developers Group BH 2015 - [Criando experiências com SVG](http://willianjusten.com.br/gdg-bh-2015)
+* Speaker at Barra.JS - [Primeiro passos com SVG](http://willianjusten.com.br/gdg-bh-2015)
+* Speaker at SEMCOMP 2015 - [Criando experiências com SVG](http://willianjusten.com.br/semcomp-2015/)
+* Speaker at Frontend Carioca 2015 - [Criando experiências com SVG](http://willianjusten.com.br/frontend-carioca-2015/)
+* Speaker at Imasters RJ 2015 - [Passos para se ter um projeto com Qualidade](http://willianjusten.com.br/imasters-2015/)
+* Creator of [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
+* Translator of [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
 
 
 

@@ -73,13 +73,14 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Extras
 
-* Palestrante no Frontin Bahia 2014 - Play SVG
-* Palestrante no GDG BH 2015 - Criando experiências com SVG
-* Palestrante no Barra.JS - Primeiros passos com SVG
-* Palestrante na SEMCOMP 2015 - Criando experiências com SVG
-* Palestrante na Imasters RJ 2015 - Passos para se ter um projeto com Qualidade
-* Criador da Awesome-SVG list
-* Tradutor do SVG Pocket Guide
+* Palestrante no Frontin Bahia 2014 - [Play SVG](http://bit.ly/frontin-bahia-2014)
+* Palestrante no Google Developers Group BH 2015 - [Criando experiências com SVG](http://willianjusten.com.br/gdg-bh-2015)
+* Palestrante no Barra.JS - [Primeiro passos com SVG](http://willianjusten.com.br/gdg-bh-2015)
+* Palestrante no SEMCOMP 2015 - [Criando experiências com SVG](http://willianjusten.com.br/semcomp-2015/)
+* Palestrante no Frontend Carioca 2015 - [Criando experiências com SVG](http://willianjusten.com.br/frontend-carioca-2015/)
+* Palestrante no Imasters RJ 2015 - [Passos para se ter um projeto com Qualidade](http://willianjusten.com.br/imasters-2015/)
+* Criador do [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
+* Tradutor do [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
 
 
 
