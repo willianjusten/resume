@@ -13,7 +13,7 @@
 **Github:** willianjusten
 
 ##Sobre mim
-Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Minha carreira começou em 2012 e desde então, eu tenho adquirido experiência todos os dias. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
+Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
 
 Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos sobre alguma coisa que aprendi.
 
