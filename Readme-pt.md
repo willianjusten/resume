@@ -23,13 +23,13 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
-* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * Grunt - Gulp - Yeoman
+* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * NodeJS
+* Python
 * Git
 * PHP
-* Python (Django, Flask)
-* MySQL - MongoDB
+* MySQL - MongoDB - Redis
 * TDD and Integração Contínua
 * Scrum and Kanban
 

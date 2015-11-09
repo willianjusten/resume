@@ -24,13 +24,13 @@ I love to work and colaborate with teams and in my spare time I like to teach my
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
+* Grunt - Gulp
 * Javascript (AngularJS, ReactJS, Design Patterns, Tests)
-* Grunt - Gulp - Yeoman
 * NodeJS
-* Git
+* Python
 * PHP
-* Python (Django, Flask)
-* MySQL - MongoDB
+* Git
+* MySQL - MongoDB - Redis
 * TDD and Continuous Integration
 * Scrum and Kanban
 
