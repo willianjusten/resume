@@ -35,6 +35,10 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Experiência Profissional
 
+**Freelance Frontend Developer** - HUGE - January 2015 - Present
+
+> Desenvolvimento de soluções e protótipos usando as mais diversas tecnologias.
+
 **Engenheiro de Software** - Globo.com - Março 2015 - Atualmente
 
 > Desenvolvimento de aplicações de alta escalabilidade para o globoesporte.com. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML, performance e SEO. A maioria dos projetos são desenvolvidos em Python com o GIT como controle de versão.
