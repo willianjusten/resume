@@ -15,15 +15,15 @@
 ##About me
 I'm a software engineer that loves to work with challenging and creative projects. As a programmer I'm in a constantly search for better practices and also experimenting new things.
 
-I love to work and colaborate with teams and in my spare time I like to teach my friends about something that I've learned.
+I love to work and colaborate with teams and in my spare time I like to write on my blog or teach my friends about something that I've learned.
 
 
 ##Skills
 
 * HTML - Jade - Haml - Erb
 * Responsive Design (Mobile First)
-* CSS (Stylus, Sass, Less)
-* Css Frameworks (Bootstrap, Foundation)
+* CSS (Stylus, Sass, Less, PostCSS)
+* Css Frameworks (Bootstrap, Foundation, Bourbon)
 * Grunt - Gulp
 * Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * NodeJS
@@ -36,7 +36,13 @@ I love to work and colaborate with teams and in my spare time I like to teach my
 
 ##Work Experience
 
-**Software Engineer** - Globo.com - March 2015 - Present
+**Freelance Frontend Developer** - HUGE - January 2015 - Present
+
+>Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
+
+>I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
+
+**Software Engineer** - Globo.com - March 2015 - January 2016
 
 >I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
 
