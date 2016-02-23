@@ -40,8 +40,6 @@ I love to work and colaborate with teams and in my spare time I like to write on
 
 >Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
 
->I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
-
 **Software Engineer** - Globo.com - March 2015 - January 2016
 
 >I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
