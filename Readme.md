@@ -54,15 +54,19 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 ##Education
 
 **Design - [Centro Universitário Carioca](http://unicarioca.edu.br)**
+
 June 2019
 
 **Computer Science (Exchange Student) - [Clark University](http://clarku.edu)**
+
 January 2014 - December 2014
 
 **Computer Science (Summer Term) - [Boston University](http://bu.edu)**
+
 June 2014 - August 2014
 
 **Analysis and Development of Systems - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)**
+
 March 2013 - December 2014 (Stopped)
 
 ##Academic/Personal Projects
