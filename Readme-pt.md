@@ -61,6 +61,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Análise e Desenvolvimento de Sistemas - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - Março 2013 - Dezembro 2014 (Trancado)
 
+
 ##Projetos Acadêmicos/Pessoais
 
 * **Designer**, [“Globo Mais App”](https://www.behance.net/gallery/29591179/Globo-Mais-App), Globo Hackathon
@@ -77,6 +78,7 @@ A pesquisa foi desenvolvida utilizando técnicas de pré-processamento de imagen
 
 * [Practical Design Patterns with Javascript (Jonathan Mills / Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
+* [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
 #Idiomas
 
