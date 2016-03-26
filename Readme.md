@@ -59,7 +59,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Computer Science (Summer Term) - [Boston University](http://bu.edu)** - June 2014 - August 2014
 
-**Analysis and Development of Systems - [Instituto Federal de Educação Ciência e Tecnologia Baiano(IFBaiano)](http://ifbaiano.edu.br/portal/)** - March 2013 - December 2014 (Stopped)
+**Analysis and Development of Systems - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - March 2013 - December 2014 (Stopped)
 
 ##Academic/Personal Projects
 
