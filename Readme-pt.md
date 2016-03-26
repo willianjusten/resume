@@ -28,9 +28,10 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * CSS Frameworks (Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
 * Javascript (AngularJS, ReactJS, ES2015)
-* Java (Spring Framework, Maven)
+* Java (Spring Framework, Maven, JavaFX)
 * C++
 * C#
+* C
 * Computer Vision (OpenCV)
 * NodeJS (Express)
 * Git
