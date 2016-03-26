@@ -1,88 +1,89 @@
-#Willian Justen de Vasconcellos
+#Fernando de Almeida Coelho
 
-**Localização:** Rio de Janeiro-RJ - Brasil
+**Localização:** Rio de Janeiro - RJ - Brasil
 
-**Telefone:** (24) 99997-5777
+**Telefone:** (21) 98015-5895
 
-**Blog:** [willianjusten.com.br](http://willianjusten.com.br)
+**Personal site:** [fernandocoelho.me](http://fernandocoelho.me)
 
-**E-mail:** willianjustenqui@gmail.com
+**Behance:** [behance.net/nandoacoelho](http://behance.net/nandoacoelho)
 
-**Skype:** willianjusten
+**LinkedIn:** [linkedin.com/in/nandoacoelho](http://linkedin.com/in/nandoacoelho)
 
-**Github:** willianjusten
+**E-mail:** fernando@fernandocoelho.me
+
+**Skype:** nandoacoelho
+
+**Github:** nandoacoelho
 
 ##Sobre mim
-Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
 
-Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos sobre alguma coisa que aprendi.
+I'm a Software Engineer who loves computer science and how we interact to every piece of technology. The way user interfaces - specially on the web - can have a huge impact in peoples lives fascinates me and makes me work to go even further to enhance their experience through beautiful design and performant implementation.
 
 ##Habilidades
 
-* HTML - Jade - Haml - Erb
+* HTML (Jade)
 * Responsive Design (Mobile First)
-* CSS (Stylus, Sass, Less)
-* Css Frameworks (Bootstrap, Foundation)
-* Grunt - Gulp - Yeoman
-* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
-* NodeJS
-* Python
+* CSS (Stylus, Sass)
+* CSS Frameworks (Bootstrap, Foundation)
+* Task Runners (Grunt, Gulp, NPM Scripts)
+* Javascript (AngularJS, ReactJS, ES2015)
+* Java (Spring Framework, Maven)
+* C++
+* C#
+* Computer Vision (OpenCV)
+* NodeJS (Express)
 * Git
-* PHP
-* MySQL - MongoDB - Redis
-* TDD and Integração Contínua
+* RDMS (MySQL, Microsoft SQL Server, Oracle)
 * Scrum and Kanban
 
 ##Experiência Profissional
 
-**Engenheiro de Software** - Globo.com - Março 2015 - Atualmente
+**Web Engineer** - [Huge](http://hugeinc.com) - Novembro 2015 - Presente
 
-> Desenvolvimento de aplicações de alta escalabilidade para o globoesporte.com. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML, performance e SEO. A maioria dos projetos são desenvolvidos em Python com o GIT como controle de versão.
+> Desenvolvimento de aplicações de alta escalabilidade para grandes empresas. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML. A maioria dos projetos são desenvolvidos em Javascript com o GIT como controle de versão.
 
-**Desenvolvedor Front End** - Queremos! / WeDemand - Agosto 2014 - Março 2015
+**Desenvolvedor Front End / Designer** - [Brazilian Student Association](http://gobrasa.org) - Novembro 2014 - Janeiro 2016
 
-> Desenvolvimento de novas funcionalidades para o sistema e outras necessidades do produto. Trabalhando junto com os designers para criação da melhor experiência de usuário possível, utilizando HTML, CSS, JS e outras ferramentas necessárias para o desenvolvimento da funcionalidade.
+> Trabalhei com um time multi disciplinar para construir o site institucional da Associação.  Criei e desenvolvi o novo branding desta. Além disso desenvolvi o projeto de branding mais coeso entre todos os produtos e processos de comunicação da associação.
 
-**Desenvolvedor Front End** - Maxisite Comunicação Digital - Janeiro 2013 - Agosto 2014
+**Desenvolvedor Front End** - [DClick Web & Mobile Solutions](http://dclick.com.br) - Fevereiro 2015 - Setembro 2015
 
-> Desenvolvimento de sites, ferramentas e aplicações para mobile e desktop, utilizando HTML, CSS e JS para o front-end e PHP/MySQL para o backend.
-
-**Professor de Informática** - Index Cursos Profissionais - Maio 2012 - Dezembro 2012
-
-> Eu atuei como professor para crianças, adultos e idosos, ensinando pacote Office (Excel, Word, Powerpoint, Access), Windows e Linux.
-
-**Estudante de Iniciação Científica** - Conselho Nacional de Desenvolvimento Científico e Tecnológico - Janeiro 2009 - Janeiro 2011
-
-> Eu trabalhei com química computacional, estudo de modelagem molecular e interações químicas. Usando Linux e Windows, Virtualização, Acesso Remoto via rdp e ssh.
-
+> Mantive e implementei novas funcionalidades, num ambiente de alta velocidade de iteração, para aplicações web focando no frontend, usando HTML5, CSS3, Angular.JS, Twitter Bootstrap. Java, Spring frameworks e Oracle foram usados no backend.
 
 ##Formação
 
-**TI em Instituto Superior de Tecnologia - IST** - Junho 2012 - Dezembro 2014
+**Design - [Centro Universitário Carioca](http://unicarioca.edu.br)** - Junho 2019
 
-**Química Industrial na Universidade Federal Fluminense** - Março 2008 - Julho 2012 (Trancado)
+**Computer Science (Exchange Student) - [Clark University](http://clarku.edu)** - Janeiro 2014 - Dezembro 2014
 
+**Computer Science (Summer Term) - [Boston University](http://bu.edu)** - Junho 2014 - Agosto 2014
 
-##Cursos
+**Análise e Desenvolvimento de Sistemas - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - Março 2013 - Dezembro 2014 (Trancado)
 
-* Testing & Refactoring with Continuous Delivery (Industrial Logic)
-* Learning to Program in Python - University of Toronto (Coursera)
-* MongoDB for Node.js Developers (Mongo University)
-* Web Development Track (Teamthreehouse)
+##Projetos Acadêmicos/Pessoais
 
+* **Designer**, [“Globo Mais App”](https://www.behance.net/gallery/29591179/Globo-Mais-App), Globo Hackathon
+
+> Um aplicativo mobile para a plataforma Android com foco em acessibilidade para consulta personalizada da programação da Globo. Com interface facilitada o usuário pode ter acesso as suas informações com 2 cliques. Além disso dispõe de busca com inteligência artificial e aprendizagem de maquina para fornecer os melhores resultados e alimentar a opção de programas sugeridos. Este aplicativo foi apresenta na Hackathon Globo 2015.
+
+* **Líder de Equipe**, [“Identificação de Células Com Anemia Falciforme em Imagens de
+Amostras de Sangue”](http://cs.clarku.edu/~fdealmeidacoelho/FinalProject/), Clark University
+
+> Colaborei com um time para a construção de um algoritmo a fim de automatizar a segmentação de glóbulos vermelhos em imagens de amostra de sangue, além de identificar diferentes tipos de variação nas células, como a Anemia Falciforme.
+A pesquisa foi desenvolvida utilizando técnicas de pré-processamento de imagens em visão computacional e tratamento com segmentação e diferenciação de glóbulos vermelhos.
+
+##Cursos Relevantes
+
+* Practical Design Patterns with Javascript (Pluralsight)
+* Functional-Lite Javascript (Kyle Simpson/Frontend Masters)
+
+#Idiomas
+
+* Inglês Fluente (TOEFL iTP 550)
 
 ##Extras
 
-* Palestrante no Frontin Bahia 2014 - [Play SVG](http://bit.ly/frontin-bahia-2014)
-* Palestrante no Google Developers Group BH 2015 - [Criando experiências com SVG](http://willianjusten.com.br/gdg-bh-2015)
-* Palestrante no Barra.JS - [Primeiro passos com SVG](http://willianjusten.com.br/gdg-bh-2015)
-* Palestrante no SEMCOMP 2015 - [Criando experiências com SVG](http://willianjusten.com.br/semcomp-2015/)
-* Palestrante no Frontend Carioca 2015 - [Criando experiências com SVG](http://willianjusten.com.br/frontend-carioca-2015/)
-* Palestrante no Imasters RJ 2015 - [Passos para se ter um projeto com Qualidade](http://willianjusten.com.br/imasters-2015/)
-* Criador do [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
-* Tradutor do [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
-
-
-
-
-
+* Hackathon Organizer at [BRASATech Conference](http://brasatech.org/)
+* Bolsista de Graduação Sanduíche pelo programa [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) financiado pela CAPES/CNPq.
+* Presidente do Diretório Acadêmico do Departamento de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)
