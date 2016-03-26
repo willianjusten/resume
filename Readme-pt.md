@@ -75,8 +75,8 @@ A pesquisa foi desenvolvida utilizando técnicas de pré-processamento de imagen
 
 ##Cursos Relevantes
 
-* Practical Design Patterns with Javascript (Pluralsight)
-* Functional-Lite Javascript (Kyle Simpson/Frontend Masters)
+* [Practical Design Patterns with Javascript (Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
+* [Functional-Lite Javascript (Kyle Simpson/Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 
 #Idiomas
 
