@@ -27,7 +27,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * CSS (Stylus, Sass)
 * CSS Frameworks (Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
-* Javascript (AngularJS, ReactJS, ES2015)
+* Javascript (AngularJS, ReactJS, ES2015, jQuery)
 * Java (Spring Framework, Maven, JavaFX)
 * C++
 * C#
