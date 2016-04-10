@@ -81,7 +81,7 @@ A pesquisa foi desenvolvida utilizando técnicas de pré-processamento de imagen
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 * [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
-#Idiomas
+##Idiomas
 
 * Inglês Fluente (TOEFL iTP 550)
 

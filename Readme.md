@@ -78,7 +78,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 * [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
-#Languages
+##Languages
 
 * English (Full Professional Proficiency - TOEFL iTP 550)
 
