@@ -36,7 +36,7 @@ I love to work and colaborate with teams and in my spare time I like to write on
 
 ##Work Experience
 
-**Freelance Frontend Developer** - HUGE - January 2015 - Present
+**Freelance Frontend Developer** - HUGE - January 2016 - Present
 
 >Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
 
