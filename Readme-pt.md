@@ -26,7 +26,8 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Grunt - Gulp - Yeoman
 * Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * NodeJS
-* Python
+* Python/Django/Flask
+* Ruby/Rails
 * Git
 * PHP
 * MySQL - MongoDB - Redis
@@ -83,7 +84,8 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Palestrante no SEMCOMP 2015 - [Criando experiências com SVG](http://willianjusten.com.br/semcomp-2015/)
 * Palestrante no Frontend Carioca 2015 - [Criando experiências com SVG](http://willianjusten.com.br/frontend-carioca-2015/)
 * Palestrante no Imasters RJ 2015 - [Passos para se ter um projeto com Qualidade](http://willianjusten.com.br/imasters-2015/)
-* Criador do [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
+* Criador da [Awesome-SVG List](https://github.com/willianjusten/awesome-svg)
+* Criador da [Awesome Audio Visualization List](https://github.com/willianjusten/awesome-audio-visualization)
 * Tradutor do [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
 
 

@@ -27,7 +27,8 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * Grunt - Gulp
 * Javascript (AngularJS, ReactJS, Design Patterns, Tests)
 * NodeJS
-* Python
+* Python/Django/Flask
+* Ruby/Rails
 * PHP
 * Git
 * MySQL - MongoDB - Redis
@@ -84,10 +85,5 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * Speaker at Frontend Carioca 2015 - [Criando experiências com SVG](http://willianjusten.com.br/frontend-carioca-2015/)
 * Speaker at Imasters RJ 2015 - [Passos para se ter um projeto com Qualidade](http://willianjusten.com.br/imasters-2015/)
 * Creator of [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
+* Creator of [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 * Translator of [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
-
-
-
-
-
-
