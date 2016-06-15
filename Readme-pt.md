@@ -23,9 +23,11 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less)
 * Css Frameworks (Bootstrap, Foundation)
-* Grunt - Gulp - Yeoman
-* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
+* Javascript (Design Patterns, Testes)
+* ReactJS / Redux / Flux
+* AngularJS
 * NodeJS
+* Automatizadores (Grunt, Gulp, Webpack, Npm)
 * Python/Django/Flask
 * Ruby/Rails
 * Git

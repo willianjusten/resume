@@ -24,8 +24,10 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * Responsive Design (Mobile First)
 * CSS (Stylus, Sass, Less, PostCSS)
 * Css Frameworks (Bootstrap, Foundation, Bourbon)
-* Grunt - Gulp
-* Javascript (AngularJS, ReactJS, Design Patterns, Tests)
+* Grunt / Gulp / Webpack / Npm
+* Javascript (Design Patterns, Testes)
+* ReactJS / Redux / Flux
+* AngularJS
 * NodeJS
 * Python/Django/Flask
 * Ruby/Rails
