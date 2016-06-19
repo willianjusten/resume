@@ -4,13 +4,13 @@
 
 **Telefone:** (21) 98015-5895
 
-**Personal site:** [fernandocoelho.me](http://fernandocoelho.me)
+**Personal site:** [nandoacoelho.github.io](http://nandoacoelho.github.io)
 
 **Behance:** [behance.net/nandoacoelho](http://behance.net/nandoacoelho)
 
 **LinkedIn:** [linkedin.com/in/nandoacoelho](http://linkedin.com/in/nandoacoelho)
 
-**E-mail:** fernando@fernandocoelho.me
+**E-mail:** nandoacoelho@gmail.com
 
 **Skype:** nandoacoelho
 
@@ -24,7 +24,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 * HTML (Jade)
 * Responsive Design (Mobile First)
-* CSS (Stylus, Sass)
+* CSS (Stylus, Sass, PostCSS)
 * CSS Frameworks (Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
 * Javascript (AngularJS, ReactJS, ES2015, jQuery)
