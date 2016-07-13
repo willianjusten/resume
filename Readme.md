@@ -25,8 +25,8 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * CSS (Stylus, Sass, Less, PostCSS)
 * Css Frameworks (Bootstrap, Foundation, Bourbon)
 * Grunt / Gulp / Webpack / Npm
-* Javascript (Design Patterns, Testes)
-* ReactJS / Redux / Flux
+* Javascript (Design Patterns, Tests)
+* ReactJS / Redux
 * AngularJS
 * NodeJS
 * Python/Django/Flask
