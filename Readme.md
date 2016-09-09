@@ -41,6 +41,8 @@ I love to work and colaborate with teams and in my spare time I like to write on
 
 **Instructor** - Willianjusten Courses - May 2016 - Present
 
+>Creating courses about Web Development in my own platform.
+
 **Freelance Frontend Developer** - HUGE - January 2016 - May 2016
 
 >Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
