@@ -1,8 +1,8 @@
 #Willian Justen de Vasconcellos
 
-**Location:** Rio de Janeiro-RJ - Brazil
+**Location:** Dublin - Ireland
 
-**Phone Number:** +55 (24) 99997-5777
+**Phone Number:** +353 (089) 987 3881
 
 **Blog:** [willianjusten.com.br](http://willianjusten.com.br)
 
@@ -26,7 +26,7 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * Css Frameworks (Bootstrap, Foundation, Bourbon)
 * Grunt / Gulp / Webpack / Npm
 * Javascript (Design Patterns, Tests)
-* ReactJS / Redux
+* ReactJS / Redux / Flux
 * AngularJS
 * NodeJS
 * Python/Django/Flask
@@ -39,7 +39,9 @@ I love to work and colaborate with teams and in my spare time I like to write on
 
 ##Work Experience
 
-**Freelance Frontend Developer** - HUGE - January 2016 - Present
+**Instructor** - Willianjusten Courses - May 2016 - Present
+
+**Freelance Frontend Developer** - HUGE - January 2016 - May 2016
 
 >Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
 
@@ -89,6 +91,8 @@ I love to work and colaborate with teams and in my spare time I like to write on
 * Speaker at Front in Rio 2016 Html Edition - [Ícones SVG da Teoria a prática](https://speakerdeck.com/willianjusten/icones-svg-da-teoria-a-pratica)
 * Speaker at Meetup CSS SP Google Edition - [CSS loves Math](https://willianjusten.com.br/meetup-css-sp/#/)
 * Speaker at Front in Sampa 2016 - [JS loves Music](https://willianjusten.com.br/frontinsampa-16/)
+* Speaker at Front in BH 2016 - [Make Them Move - Greensock](https://willianjusten.com.br/front-in-bh-16/#/)
+* Speaker at BrazilJS 2016 - [JS loves Music](http://willianjusten.com.br/braziljs-16)
 * Creator of [Awesome-SVG](https://github.com/willianjusten/awesome-svg)
 * Creator of [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 * Translator of [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
