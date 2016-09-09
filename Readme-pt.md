@@ -1,8 +1,8 @@
 #Willian Justen de Vasconcellos
 
-**Localização:** Rio de Janeiro-RJ - Brasil
+**Localização:** Dublin - Ireland
 
-**Telefone:** (24) 99997-5777
+**Telefone:** +353 (089) 987 3881
 
 **Blog:** [willianjusten.com.br](http://willianjusten.com.br)
 
@@ -38,7 +38,11 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Experiência Profissional
 
-**Freelance Frontend Developer** - HUGE - Janeiro 2016 - Atualmente
+**Instrutor** - Willian Justen Cursos - Maio 2016 - Presente
+
+> Criação de cursos sobre Desenvolvimento Web.
+
+**Freelance Frontend Developer** - HUGE - Janeiro 2016 - Maio 2016
 
 > Desenvolvimento de soluções e protótipos usando as mais diversas tecnologias.
 
@@ -89,11 +93,8 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Palestrante no Front in Rio 2016 Html Edition - [Ícones SVG da Teoria a prática](https://speakerdeck.com/willianjusten/icones-svg-da-teoria-a-pratica)
 * Palestrante no Meetup CSS SP Google Edition - [CSS loves Math](https://willianjusten.com.br/meetup-css-sp/#/)
 * Palestrante no Front in Sampa 2016 - [JS loves Music](https://willianjusten.com.br/frontinsampa-16/)
+* Palestrante no Front in BH 2016 - [Make Them Move - Greensock](https://willianjusten.com.br/front-in-bh-16/#/)
+* Palestrante no BrazilJS 2016 - [JS loves Music](http://willianjusten.com.br/braziljs-16)
 * Criador da [Awesome-SVG List](https://github.com/willianjusten/awesome-svg)
 * Criador da [Awesome Audio Visualization List](https://github.com/willianjusten/awesome-audio-visualization)
 * Tradutor do [SVG Pocket Guide](https://github.com/jonitrythall/svgpocketguide)
-
-
-
-
-
