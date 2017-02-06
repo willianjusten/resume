@@ -38,6 +38,10 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 
 ##Experiência Profissional
 
+**Front-end Developer** - Toptal - Dezembro 2016 - Presente
+
+> Como parte da equipe principal, eu sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
+
 **Instrutor** - Willian Justen Cursos - Maio 2016 - Presente
 
 > Criação de cursos sobre Desenvolvimento Web.
