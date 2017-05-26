@@ -1,4 +1,4 @@
-#Fernando de Almeida Coelho
+# Fernando de Almeida Coelho
 
 **Currently based:** Rio de Janeiro - Brazil
 
@@ -16,11 +16,11 @@
 
 **Github:** nandoacoelho
 
-##About me
+## About me
 
 I'm a Software Engineer who loves computer science and how we interact to every piece of technology. The way user interfaces - specially on the web - can have a huge impact in peoples lives fascinates me and makes me work to go even further to enhance their experience through beautiful design and performant implementation.
 
-##Skills
+## Skills
 
 * HTML (Jade)
 * Responsive Design (Mobile First)
@@ -38,7 +38,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * RDMS (MySQL, Microsoft SQL Server, Oracle)
 * Scrum and Kanban
 
-##Experience
+## Experience
 
 **Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - Present
 
@@ -62,7 +62,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Analysis and Development of Systems - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - March 2013 - December 2014 (Stopped)
 
-##Academic/Personal Projects
+## Academic/Personal Projects
 
 * **Designer**, [“Globo Mais App”](https://www.behance.net/gallery/29591179/Globo-Mais-App), Globo Hackathon
 
@@ -78,7 +78,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 * [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
-##Languages
+## Languages
 
 * English (Full Professional Proficiency - TOEFL iTP 550)
 

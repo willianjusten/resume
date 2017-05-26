@@ -1,4 +1,4 @@
-#Fernando de Almeida Coelho
+# Fernando de Almeida Coelho
 
 **Localização:** Rio de Janeiro - RJ - Brasil
 
@@ -16,11 +16,11 @@
 
 **Github:** nandoacoelho
 
-##Sobre mim
+## Sobre mim
 
 I'm a Software Engineer who loves computer science and how we interact to every piece of technology. The way user interfaces - specially on the web - can have a huge impact in peoples lives fascinates me and makes me work to go even further to enhance their experience through beautiful design and performant implementation.
 
-##Habilidades
+## Habilidades
 
 * HTML (Jade)
 * Responsive Design (Mobile First)
@@ -38,7 +38,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * RDMS (MySQL, Microsoft SQL Server, Oracle)
 * Scrum and Kanban
 
-##Experiência Profissional
+## Experiência Profissional
 
 **Web Engineer** - [Huge](http://hugeinc.com) - Novembro 2015 - Presente
 
@@ -63,7 +63,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 **Análise e Desenvolvimento de Sistemas - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - Março 2013 - Dezembro 2014 (Trancado)
 
 
-##Projetos Acadêmicos/Pessoais
+## Projetos Acadêmicos/Pessoais
 
 * **Designer**, [“Globo Mais App”](https://www.behance.net/gallery/29591179/Globo-Mais-App), Globo Hackathon
 
@@ -75,17 +75,17 @@ Amostras de Sangue”](http://cs.clarku.edu/~fdealmeidacoelho/FinalProject/), Cl
 > Colaborei com um time para a construção de um algoritmo a fim de automatizar a segmentação de glóbulos vermelhos em imagens de amostra de sangue, além de identificar diferentes tipos de variação nas células, como a Anemia Falciforme.
 A pesquisa foi desenvolvida utilizando técnicas de pré-processamento de imagens em visão computacional e tratamento com segmentação e diferenciação de glóbulos vermelhos.
 
-##Cursos Relevantes
+## Cursos Relevantes
 
 * [Practical Design Patterns with Javascript (Jonathan Mills / Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 * [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
-##Idiomas
+## Idiomas
 
 * Inglês Fluente (TOEFL iTP 550)
 
-##Extras
+## Extras
 
 * Hackathon Organizer at [BRASATech Conference](http://brasatech.org/)
 * Bolsista de Graduação Sanduíche pelo programa [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) financiado pela CAPES/CNPq.
