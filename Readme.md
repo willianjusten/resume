@@ -52,7 +52,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Maintained and implemented new features with a highly iterative approach, to web applications focusing on the frontend using HTML5, CSS3, Angular.JS, Twitter Bootstrap, and Java and Spring frameworks in the backend.
 
-##Education
+## Education
 
 **Design - [Centro Universitário Carioca](http://unicarioca.edu.br)** - June 2019
 
@@ -72,7 +72,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Worked with a team to build an algorithm to automate the segmentation of different types of blood cells in microscope images, as well as identify abnormalities among them, such as Sickle Cells. The research was developed by using pre-processing techniques with computer vision libraries.
 
-##Relevant Courses
+## Relevant Courses
 
 * [Practical Design Patterns with Javascript (Jonathan Mills / Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
@@ -82,7 +82,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 * English (Full Professional Proficiency - TOEFL iTP 550)
 
-##Extras
+## Extras
 
 * Hackathon Organizer at [BRASATech Conference](http://brasatech.org/).
 * Scholarship Recipient at [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) financiado pela CAPES/CNPq.

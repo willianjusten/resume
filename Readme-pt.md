@@ -52,7 +52,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Mantive e implementei novas funcionalidades, num ambiente de alta velocidade de iteração, para aplicações web focando no frontend, usando HTML5, CSS3, Angular.JS, Twitter Bootstrap. Java, Spring frameworks e Oracle foram usados no backend.
 
-##Formação
+## Formação
 
 **Design - [Centro Universitário Carioca](http://unicarioca.edu.br)** - Junho 2019
 
