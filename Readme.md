@@ -1,4 +1,4 @@
-#Willian Justen de Vasconcellos
+# Willian Justen de Vasconcellos
 
 **Location:** Dublin - Ireland
 
@@ -12,12 +12,12 @@
 
 **Github:** willianjusten
 
-##About me
+## About me
 I'm a software engineer that loves to work with challenging and creative projects. As a programmer, I'm in a constant search for better practices and also experimenting new things.
 
 I love to work and collaborate with teams and in my spare time, I like to write on my blog or teach my friends about something that I've learned.
 
-##Skills
+## Skills
 
 * HTML - Jade - Haml - Erb
 * Responsive Design (Mobile First)
@@ -36,7 +36,7 @@ I love to work and collaborate with teams and in my spare time, I like to write 
 * TDD and Continuous Integration
 * Scrum and Kanban
 
-##Work Experience
+## Work Experience
 
 **Front-end Developer** - Toptal - Dezember 2016 - Present
 
@@ -71,21 +71,21 @@ I love to work and collaborate with teams and in my spare time, I like to write 
 > I worked with computacional chemistry, molecular modeling study and chemical interactions. Using Linux and Windows, virtualization, Remote Access via rdp and ssh.
 
 
-##Education
+## Education
 
 **IT in Instituto Superior de Tecnologia - IST** - June 2012 - December 2014
 
 **Industrial Chemistry in Universidade Federal Fluminense** - March 2008 - July 2012 (Stopped)
 
 
-##Courses
+## Courses
 
 * Testing & Refactoring with Continuous Delivery (Industrial Logic)
 * Learning to Program in Python - University of Toronto (Coursera)
 * MongoDB for Node.js Developers (Mongo University)
 * Web Development Track (Teamthreehouse)
 
-##Extras
+## Extras
 
 * Speaker at Frontin Bahia 2014 - [Play SVG](http://bit.ly/frontin-bahia-2014)
 * Speaker at Google Developers Group BH 2015 - [Criando experiências com SVG](http://willianjusten.com.br/gdg-bh-2015)
