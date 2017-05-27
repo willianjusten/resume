@@ -38,7 +38,7 @@ I love to work and collaborate with teams and in my spare time, I like to write 
 
 ## Work Experience
 
-**Front-end Developer** - Toptal - Dezember 2016 - Present
+**Front-end Developer** - Toptal - December 2016 - Present
 
 > As a part of the core team, I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
