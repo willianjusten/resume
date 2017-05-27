@@ -1,4 +1,4 @@
-#Willian Justen de Vasconcellos
+# Willian Justen de Vasconcellos
 
 **Localização:** Dublin - Ireland
 
@@ -12,12 +12,12 @@
 
 **Github:** willianjusten
 
-##Sobre mim
+## Sobre mim
 Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
 
 Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos sobre alguma coisa que aprendi.
 
-##Habilidades
+## Habilidades
 
 * HTML - Jade - Haml - Erb
 * Responsive Design (Mobile First)
@@ -36,7 +36,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * TDD and Integração Contínua
 * Scrum and Kanban
 
-##Experiência Profissional
+## Experiência Profissional
 
 **Front-end Developer** - Toptal - Dezembro 2016 - Presente
 
@@ -71,14 +71,14 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 > Eu trabalhei com química computacional, estudo de modelagem molecular e interações químicas. Usando Linux e Windows, Virtualização, Acesso Remoto via rdp e ssh.
 
 
-##Formação
+## Formação
 
 **TI em Instituto Superior de Tecnologia - IST** - Junho 2012 - Dezembro 2014
 
 **Química Industrial na Universidade Federal Fluminense** - Março 2008 - Julho 2012 (Trancado)
 
 
-##Cursos
+## Cursos
 
 * Testing & Refactoring with Continuous Delivery (Industrial Logic)
 * Learning to Program in Python - University of Toronto (Coursera)
@@ -86,7 +86,7 @@ Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de 
 * Web Development Track (Teamthreehouse)
 
 
-##Extras
+## Extras
 
 * Palestrante no Frontin Bahia 2014 - [Play SVG](http://bit.ly/frontin-bahia-2014)
 * Palestrante no Google Developers Group BH 2015 - [Criando experiências com SVG](http://willianjusten.com.br/gdg-bh-2015)
