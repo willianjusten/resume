@@ -22,25 +22,25 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Skills
 
-* HTML (Jade)
-* Responsive Design (Mobile First)
+* Javascript (React, Redux, ES2015, AngularJS, jQuery)
 * CSS (Stylus, Sass, PostCSS)
-* CSS Frameworks (Bootstrap, Foundation)
+* CSS Frameworks (Tachyons, Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
-* Javascript (AngularJS, ReactJS, ES2015, jQuery)
-* Java (Spring Framework, Maven, JavaFX)
 * C++
-* C#
 * C
 * Computer Vision (OpenCV)
 * NodeJS (Express)
 * Git
-* RDMS (MySQL, Microsoft SQL Server, Oracle)
 * Scrum and Kanban
 
 ## Experience
 
-**Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - Present
+**Front End Engineer** - [VTEX](http://vtex.com.br) - June 2017 - Present
+
+> Work implementing new features to the e-commerce platform.
+
+
+**Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - May 2017
 
 > Work on scalable web applications for massive corporations, focusing mainly on the  frontend development, making use of Javascript - specifically AngularJS, Sass, CSS, HTML. Projects were developed using Javascript with version control using GIT.
 
@@ -48,7 +48,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Worked with a team to build BRASA's new website. Developed its new visual identity. Built a more cohesive branding throughout all the products and communication processes at the Association.
 
-**Front End Developer** - [DClick Web & Mobile Solutions](http://dclick.com.br) - February 2015 - September 2015
+**Front End Developer** - [DClick Web e Mobile Solutions](http://dclick.com.br) - February 2015 - September 2015
 
 > Maintained and implemented new features with a highly iterative approach, to web applications focusing on the frontend using HTML5, CSS3, Angular.JS, Twitter Bootstrap, and Java and Spring frameworks in the backend.
 

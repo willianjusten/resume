@@ -22,25 +22,24 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Habilidades
 
-* HTML (Jade)
-* Responsive Design (Mobile First)
+* Javascript (React, Redux, ES2015, AngularJS, jQuery)
 * CSS (Stylus, Sass, PostCSS)
-* CSS Frameworks (Bootstrap, Foundation)
+* CSS Frameworks (Tachyons, Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
-* Javascript (AngularJS, ReactJS, ES2015, jQuery)
-* Java (Spring Framework, Maven, JavaFX)
 * C++
-* C#
 * C
 * Computer Vision (OpenCV)
 * NodeJS (Express)
 * Git
-* RDMS (MySQL, Microsoft SQL Server, Oracle)
 * Scrum and Kanban
 
 ## Experiência Profissional
 
-**Web Engineer** - [Huge](http://hugeinc.com) - Novembro 2015 - Presente
+**Engenheiro Front End** - [VTEX](http://vtex.com.br) - Junho 2017 - Presente
+
+> Desenvolvimento de produto de e-commerce.
+
+**Web Engineer** - [Huge](http://hugeinc.com) - Novembro 2015 - Maio 2017
 
 > Desenvolvimento de aplicações de alta escalabilidade para grandes empresas. Com foco principal no desenvolvimento Front End, utilizando Javascript, Sass, CSS, HTML. A maioria dos projetos são desenvolvidos em Javascript com o GIT como controle de versão.
 
@@ -48,7 +47,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Trabalhei com um time multi disciplinar para construir o site institucional da Associação.  Criei e desenvolvi o novo branding desta. Além disso desenvolvi o projeto de branding mais coeso entre todos os produtos e processos de comunicação da associação.
 
-**Desenvolvedor Front End** - [DClick Web & Mobile Solutions](http://dclick.com.br) - Fevereiro 2015 - Setembro 2015
+**Desenvolvedor Front End** - [DClick Web e Mobile Solutions](http://dclick.com.br) - Fevereiro 2015 - Setembro 2015
 
 > Mantive e implementei novas funcionalidades, num ambiente de alta velocidade de iteração, para aplicações web focando no frontend, usando HTML5, CSS3, Angular.JS, Twitter Bootstrap. Java, Spring frameworks e Oracle foram usados no backend.
 
