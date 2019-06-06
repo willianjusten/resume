@@ -35,8 +35,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Front End Engineer** - [VTEX](http://vtex.com.br) - June 2017 - Present
 
-> Work implementing new features to the e-commerce platform.
-
+> Work as a front end engineer responsible for the checkout UI, one of the most important interfaces in the platform, being served to 2000 stores across the world.
 
 **Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - May 2017
 
