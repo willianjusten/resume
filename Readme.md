@@ -24,11 +24,9 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 * Javascript (React, Redux, ES2015, AngularJS, jQuery)
 * CSS (Stylus, Sass, PostCSS)
+* Tests (Jest, React testing Library, Cypress)
 * CSS Frameworks (Tachyons, Bootstrap, Foundation)
 * Task Runners (Grunt, Gulp, NPM Scripts)
-* C++
-* C
-* Computer Vision (OpenCV)
 * NodeJS (Express)
 * Git
 * Scrum and Kanban
