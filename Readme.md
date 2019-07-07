@@ -2,7 +2,7 @@
 
 **Currently based:** Rio de Janeiro - Brazil
 
-**Phone:** +55 (21) 98015-5895
+**Phone:** +55 (21) 99566-9860
 
 **Personal site:** [omninando.github.io](http://omninando.github.io)
 
