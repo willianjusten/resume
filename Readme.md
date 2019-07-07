@@ -4,17 +4,17 @@
 
 **Phone:** +55 (21) 98015-5895
 
-**Personal site:** [nandoacoelho.github.io](http://nandoacoelho.github.io)
+**Personal site:** [omninando.github.io](http://omninando.github.io)
 
 **Behance:** [behance.net/nandoacoelho](http://behance.net/nandoacoelho)
 
-**LinkedIn:** [linkedin.com/in/nandoacoelho](http://linkedin.com/in/nandoacoelho)
+**LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
 
 **E-mail:** nandoacoelho@gmail.com
 
 **Skype:** nandoacoelho
 
-**Github:** nandoacoelho
+**Github:** omninando
 
 ## About me
 
@@ -25,23 +25,22 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 * Javascript (React, Redux, ES2015, AngularJS, jQuery)
 * CSS (Stylus, Sass, PostCSS)
 * Tests (Jest, React testing Library, Cypress)
-* CSS Frameworks (Tachyons, Bootstrap, Foundation)
-* Task Runners (Grunt, Gulp, NPM Scripts)
-* NodeJS (Express)
+* CSS Frameworks (Tachyons)
 * Git
 * Scrum and Kanban
 
 ## Experience
 
-**Front End Engineer** - [VTEX](http://vtex.com.br) - June 2017 - Present
+**Front End Engineer** - [VTEX](https://www.vtex.com/) - June 2017 - Present
 
-> Work as a front end engineer responsible for the checkout UI, one of the most important interfaces in the platform, being served to 2000 stores across the world.
+> Work as a front end engineer responsible for the checkout UI, one of the most important interfaces in the platform, being served to 2000 stores across the world. The checkout currently completes about 150k orders a day, also having the record of 650k orders last Black Friday. The Checkout UI SPA is composed by current (React, Redux) as well as legacy code (Knockout JS) living together. It's deployed using AWS CodeBuild, running unit tests with Jest and React Testing Library. For end2end tests we use Cypress running in CD for all cases and primary use cases for monitoring.
 
 **Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - May 2017
 
-> Work on scalable web applications for massive corporations, focusing mainly on the  frontend development, making use of Javascript - specifically AngularJS, Sass, CSS, HTML. Projects were developed using Javascript with version control using GIT.
+> Worked on scalable web applications for massive corporations, focusing mainly on the  frontend development, making use of Javascript - specifically AngularJS, Sass, CSS, HTML. Projects were developed using Javascript with version control using GIT.
+> Most significant project was a Internet Banking SPA for BV Financeira focusing on managing credit card statements and loans. Was a 1 year project delivered with support for all modern browsers and IE 10. Used Angular 1.x framework to develop the SPA. For testing, Karma with Selenium were used o do unit and e2e tests.
 
-**Front End Developer / Designer** - [Brazilian Student Association - BRASA](http://gobrasa.org) - November 2014 - January 2016
+**Front End Developer / Designer** - [Brazilian Student Association - BRASA](https://www.gobrasa.org/) - November 2014 - January 2016
 
 > Worked with a team to build BRASA's new website. Developed its new visual identity. Built a more cohesive branding throughout all the products and communication processes at the Association.
 
