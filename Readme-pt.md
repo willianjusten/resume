@@ -1,50 +1,28 @@
 # Willian Justen de Vasconcellos
 
-**Localização:** Dublin - Irlanda
-
-**Telefone:** +353 (083) 858 3622
+**Localização:** Petrópolis - RJ - Brasil
 
 **Blog:** [willianjusten.com.br](http://willianjusten.com.br)
 
 **E-mail:** willianjustenqui@gmail.com
 
-**Skype:** willianjusten
-
 **Github:** willianjusten
 
 ## Sobre mim
+
 Eu sou um desenvolvedor front-end que ama trabalhar com projetos desafiadores e criativos. Como programador estou em busca constante de melhores práticas e experimentando coisas novas.
 
 Eu amo trabalhar em equipe e sou bem comunicativo. No meu tempo livre, gosto de ensinar meus amigos sobre alguma coisa que aprendi.
 
-## Habilidades
-
-* HTML - Jade - Haml - Erb
-* Responsive Design (Mobile First)
-* CSS (Stylus, Sass, Less)
-* Css Frameworks (Bootstrap, Foundation)
-* Javascript (Design Patterns, Testes)
-* ReactJS / Redux / Flux
-* AngularJS
-* NodeJS
-* Automatizadores (Grunt, Gulp, Webpack, Npm)
-* Python/Django/Flask
-* Ruby/Rails
-* Git
-* PHP
-* MySQL - MongoDB - Redis
-* TDD and Integração Contínua
-* Scrum and Kanban
-
 ## Experiência Profissional
-
-**Front-end Developer** - Toptal - Dezembro 2016 - Presente
-
-> Como parte da equipe principal, eu sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
 **Instrutor** - Willian Justen Cursos - Maio 2016 - Presente
 
-> Criação de cursos sobre Desenvolvimento Web.
+> Criação de cursos sobre Desenvolvimento Web. Você pode ver a [lista completa de cursos aqui](https://willianjusten.com.br/cursos/)
+
+**Front-end Developer** - Toptal - Dezembro 2016 - Abril 2020
+
+> Como parte da equipe principal, eu sou responsável por desenvolver de forma eficiente, reutilizável e confiável o código front-end da plataforma. Trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
 **Freelance Frontend Developer** - HUGE - Janeiro 2016 - Maio 2016
 
