@@ -1,14 +1,10 @@
 # Willian Justen de Vasconcellos
 
-**Location:** Dublin - Ireland
-
-**Phone Number:** +353 (083) 858 3622
+**Location:** Petrópolis - RJ - Brazil
 
 **Blog:** [willianjusten.com.br](http://willianjusten.com.br)
 
 **E-mail:** willianjustenqui@gmail.com
-
-**Skype:** willianjusten
 
 **Github:** willianjusten
 
@@ -17,34 +13,17 @@ I'm a software engineer that loves to work with challenging and creative project
 
 I love to work and collaborate with teams and in my spare time, I like to write on my blog or teach my friends about something that I've learned.
 
-## Skills
-
-* HTML - Jade - Haml - Erb
-* Responsive Design (Mobile First)
-* CSS (Stylus, Sass, Less, PostCSS)
-* Css Frameworks (Bootstrap, Foundation, Bourbon)
-* Grunt / Gulp / Webpack / Npm
-* Javascript (Design Patterns, Tests)
-* ReactJS / Redux / Flux
-* AngularJS
-* NodeJS
-* Python/Django/Flask
-* Ruby/Rails
-* PHP
-* Git
-* MySQL - MongoDB - Redis
-* TDD and Continuous Integration
-* Scrum and Kanban
 
 ## Work Experience
 
-**Front-end Developer** - Toptal - December 2016 - Present
-
-> As a part of the core team, I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
-
 **Instructor** - Willianjusten Courses - May 2016 - Present
 
->Creating courses about Web Development in my own platform.
+> Creating courses about Web Development on Udemy and YouTube. You can see the [complete list here](https://willianjusten.com.br/cursos/)
+
+
+**Front-end Developer** - Toptal - December 2016 - April 2022
+
+> As a part of the core team, I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
 **Freelance Frontend Developer** - HUGE - January 2016 - May 2016
 
