@@ -21,7 +21,7 @@ I love to work and collaborate with teams and in my spare time, I like to write 
 > Creating courses about Web Development on Udemy and YouTube. You can see the [complete list here](https://willianjusten.com.br/cursos/)
 
 
-**Front-end Developer** - Toptal - December 2016 - April 2022
+**Front-end Developer** - Toptal - December 2016 - April 2020
 
 > As a part of the core team, I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
