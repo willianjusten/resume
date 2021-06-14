@@ -13,6 +13,10 @@ I'm a software engineer that loves to work with challenging and creative project
 
 I love to work and collaborate with teams and in my spare time, I like to write on my blog or teach my friends about something that I've learned.
 
+## Awards
+
+- [GitHub Star](https://stars.github.com/profiles/willianjusten/)
+- [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5004209?fullName=Willian%20%20Justen%20de%20Vasconcellos)
 
 ## Work Experience
 
