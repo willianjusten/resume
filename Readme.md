@@ -22,7 +22,7 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 * Javascript (React, Redux, ES2015, AngularJS, jQuery)
 * CSS (Stylus, Sass, PostCSS)
-* Tests (Jest, React testing Library, Cypress)
+* Tests (Jest, React testing Library, Cypress, WebdriverIO, Playwright)
 * CSS Frameworks (Tachyons)
 * Git
 * Scrum and Kanban
