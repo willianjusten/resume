@@ -2,17 +2,11 @@
 
 **Currently based:** Stockholm, Sweden
 
-**Phone:** +46 76 5260013
-
-**Behance:** [behance.net/nandoacoelho](https://www.behance.net/nandocoelho)
-
-**LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
-
-**E-mail:** nandoacoelho@gmail.com
-
-**Skype:** nandoacoelho
-
-**Github:** omninando
+* **Phone:** +46 76 5260013
+* **Behance:** [behance.net/nandoacoelho](https://www.behance.net/nandocoelho)
+* **LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
+* **E-mail:** nandoacoelho@gmail.com
+* **Github:** omninando
 
 ## About me
 
@@ -52,9 +46,6 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 > Maintained and implemented new features with a highly iterative approach, to web applications focusing on the frontend using HTML5, CSS3, Angular.JS, Twitter Bootstrap, and Java and Spring frameworks in the backend.
 
 ## Education
-
-**Design - [Centro Universitário Carioca](http://unicarioca.edu.br)** - June 2019
-
 **Computer Science (Exchange Student) - [Clark University](http://clarku.edu)** - January 2014 - December 2014
 
 **Computer Science (Summer Term) - [Boston University](http://bu.edu)** - June 2014 - August 2014
@@ -72,17 +63,13 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 > Worked with a team to build an algorithm to automate the segmentation of different types of blood cells in microscope images, as well as identify abnormalities among them, such as Sickle Cells. The research was developed by using pre-processing techniques with computer vision libraries.
 
 ## Relevant Courses
-
 * [Practical Design Patterns with Javascript (Jonathan Mills / Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
-* [Code School - Report Card](https://www.codeschool.com/users/2067099)
 
 ## Languages
-
 * English (Full Professional Proficiency - TOEFL iTP 550)
 
 ## Extras
-
 * Hackathon Organizer at [BRASATech Conference](http://brasatech.org/).
 * Scholarship Recipient at [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) financiado pela CAPES/CNPq.
 * President at the Student Union from the System Analysis Department at Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano).
