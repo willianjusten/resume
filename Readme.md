@@ -14,12 +14,11 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Skills
 
-* Javascript (React, Redux, ES2015, AngularJS, jQuery)
+* Javascript (React, Redux, ES2015, AngularJS, jQuery, NodeJS)
 * CSS (Stylus, Sass, PostCSS)
-* Tests (Jest, React testing Library, Cypress, WebdriverIO, Playwright)
+* Tests (Jest, React testing library, Cypress, WebdriverIO, Playwright)
 * CSS Frameworks (Tachyons)
 * Git
-* Scrum and Kanban
 
 ## Experience
 
@@ -36,10 +35,6 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 > Worked on scalable web applications for massive corporations, focusing mainly on the  frontend development, making use of Javascript - specifically AngularJS, Sass, CSS, HTML. Projects were developed using Javascript with version control using GIT.
 > Most significant project was a Internet Banking SPA for BV Financeira focusing on managing credit card statements and loans. Was a 1 year project delivered with support for all modern browsers and IE 10. Used Angular 1.x framework to develop the SPA. For testing, Karma with Selenium were used o do unit and e2e tests.
-
-**Front End Developer / Designer** - [Brazilian Student Association - BRASA](https://www.gobrasa.org/) - November 2014 - January 2016
-
-> Worked with a team to build BRASA's new website. Developed its new visual identity. Built a more cohesive branding throughout all the products and communication processes at the Association.
 
 **Front End Developer** - [DClick Web e Mobile Solutions](http://dclick.com.br) - February 2015 - September 2015
 
@@ -71,5 +66,4 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Extras
 * Hackathon Organizer at [BRASATech Conference](http://brasatech.org/).
-* Scholarship Recipient at [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) financiado pela CAPES/CNPq.
-* President at the Student Union from the System Analysis Department at Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano).
+* Scholarship Recipient at [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) sponsored by [CAPES/CNPq](https://www.gov.br/cnpq/pt-br).
