@@ -1,12 +1,10 @@
 # Fernando de Almeida Coelho
 
-**Currently based:** Rio de Janeiro - Brazil
+**Currently based:** Stockholm, Sweden
 
-**Phone:** +55 (21) 99566-9860
+**Phone:** +46 76 5260013
 
-**Personal site:** [omninando.github.io](http://omninando.github.io)
-
-**Behance:** [behance.net/nandoacoelho](http://behance.net/nandoacoelho)
+**Behance:** [behance.net/nandoacoelho](https://www.behance.net/nandocoelho)
 
 **LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
 
@@ -31,9 +29,14 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Experience
 
-**Front End Engineer** - [VTEX](https://www.vtex.com/) - June 2017 - Present
+**Software Engineer - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - Present
 
-> Work as a front end engineer responsible for the checkout UI, one of the most important interfaces in the platform, being served to 2000 stores across the world. The checkout currently completes about 150k orders a day, also having the record of 650k orders last Black Friday. The Checkout UI SPA is composed by current (React, Redux) as well as legacy code (Knockout JS) living together. It's deployed using AWS CodeBuild, running unit tests with Jest and React Testing Library. For end2end tests we use Cypress running in CD for all cases and primary use cases for monitoring.
+> Currently working in the Hosted Payment Page, which consists in a external payment integration for in-store and e-commerce merchants, being built in React bundled with webpack. As is a payment integration it is done with unit tests using jest and react testing library, along with webdriverIO and Browserstack to have e2e testing coverage.
+
+
+**Front End Engineer** - [VTEX](https://www.vtex.com/) - June 2017 - January 2020
+
+> Worked as a front end engineer responsible for the checkout UI, one of the most important interfaces in the platform, being served to 2000 stores across the world. The checkout currently completes about 150k orders a day, also having the record of 650k orders last Black Friday. The Checkout UI SPA is composed by current (React, Redux) as well as legacy code (Knockout JS) living together. It's deployed using AWS CodeBuild, running unit tests with Jest and React Testing Library. For end2end tests we use Cypress running in CD for all cases and primary use cases for monitoring.
 
 **Web Engineer** - [Huge](http://hugeinc.com) - November 2015 - May 2017
 
