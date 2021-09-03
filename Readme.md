@@ -27,15 +27,15 @@ I love to work and collaborate with teams and in my spare time, I like to write 
 
 **Front-end Developer** - Toptal - December 2016 - April 2020
 
-> As a part of the core team, I'm responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
+> As a part of the core team, I was responsible for developing efficient, reusable and reliable front-end code. Working with: Javascript (ES6), HTML5, CSS3/SASS, React, Backbone, SLIM, CoffeeScript, Ruby on Rails, Git, TDD/BDD.
 
 **Freelance Frontend Developer** - HUGE - January 2016 - May 2016
 
->Developing new solutions using modern technologies and prototypes is one of our basic roles at Huge.
+> Developing new solutions using modern technologies and fast prototypes.
 
 **Software Engineer** - Globo.com - March 2015 - January 2016
 
->I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using Python with version control using GIT.
+> I worked in high scalable applications for globoesporte.com, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, SEO. In most projects were developed using Python with version control using GIT.
 
 **Frontend Engineer** - Queremos! / WeDemand - August 2014 - March 2015
 
