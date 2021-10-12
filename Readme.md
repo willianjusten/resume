@@ -2,8 +2,8 @@
 
 **Currently based:** Stockholm, Sweden
 
-* **Phone:** +46 76 5260013
-* **Behance:** [behance.net/nandoacoelho](https://www.behance.net/nandocoelho)
+* **Phone:** +46 73 9231802
+* **Behance:** [behance.net/nandocoelho](https://www.behance.net/nandocoelho)
 * **LinkedIn:** [https://www.linkedin.com/in/nandocoelho/](http://linkedin.com/in/nandocoelho)
 * **E-mail:** nandoacoelho@gmail.com
 * **Github:** omninando
@@ -14,17 +14,19 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 ## Skills
 
-* Javascript (React, Redux, ES2015, AngularJS, jQuery, NodeJS)
+* Javascript (React, TypeScript, ES2015+, Redux, AngularJS, jQuery, NodeJS, Most.JS)
 * CSS (Stylus, Sass, PostCSS)
 * Tests (Jest, React testing library, Cypress, WebdriverIO, Playwright)
-* CSS Frameworks (Tachyons)
+* CSS Frameworks (CSS Modules, Styled Components, Tachyons)
+* Monitoring (Splunk, Sentry)
+* CI/CD (Github Actions, Jenkins)
 * Git
 
 ## Experience
 
 **Software Engineer - Javascript** - [Klarna](https://www.klarna.com/) - March 2020 - Present
 
-> Currently working in the Hosted Payment Page, which consists in a external payment integration for in-store and e-commerce merchants, being built in React bundled with webpack. As is a payment integration it is done with unit tests using jest and react testing library, along with webdriverIO and Browserstack to have e2e testing coverage.
+> Currently working in the Hosted Payment Page, which consists in a external payment integration for in-store and e-commerce merchants, being built in React bundled with webpack. As is a payment integration it is done with unit tests using jest and react testing library, along with webdriverIO and Browserstack to have e2e testing coverage. I also work in the Klarna app building a new way to pay in-store with QR codes. It is built with React Native, Redux and Most.JS to handle the user flows and Jest and Cypress to account for testing the app. I also work in a BFF layer which is a node lambda function that interfaces the app with multiple backends.
 
 
 **Front End Engineer** - [VTEX](https://www.vtex.com/) - June 2017 - January 2020
@@ -47,23 +49,10 @@ I'm a Software Engineer who loves computer science and how we interact to every 
 
 **Analysis and Development of Systems - [Instituto Federal de Educação Ciência e Tecnologia Baiano (IFBaiano)](http://ifbaiano.edu.br/portal/)** - March 2013 - December 2014 (Stopped)
 
-## Academic/Personal Projects
-
-* **Designer**, [“Globo Mais App”](https://www.behance.net/gallery/29591179/Globo-Mais-App), Globo Hackathon
-
-> Globo Mais is an Android app built and pitched at the Globo Hackathon, focused in presenting Globo’s TV schedule in the most accessible way possible. Using their Big Data and Social Graph information from the user, we developed machine learning algorithms to present personalised results and information. We focused on letting the user reach the information needed in 2 taps.
-
-* **Lead Developer**, [“Sickle Cell Identification in Red Blood Cell Images”](http://cs.clarku.edu/~fdealmeidacoelho/FinalProject/), Clark University
-
-> Worked with a team to build an algorithm to automate the segmentation of different types of blood cells in microscope images, as well as identify abnormalities among them, such as Sickle Cells. The research was developed by using pre-processing techniques with computer vision libraries.
-
 ## Relevant Courses
 * [Practical Design Patterns with Javascript (Jonathan Mills / Pluralsight)](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 * [Functional-Lite Javascript (Kyle Simpson / Frontend Masters)](https://frontendmasters.com/courses/functional-js-lite/)
 
 ## Languages
-* English (Full Professional Proficiency - TOEFL iTP 550)
-
-## Extras
-* Hackathon Organizer at [BRASATech Conference](http://brasatech.org/).
-* Scholarship Recipient at [Ciência Sem Fronteiras / Brazil Scientific Mobility Program](http://www.cienciasemfronteiras.gov.br/) sponsored by [CAPES/CNPq](https://www.gov.br/cnpq/pt-br).
+* English
+* Portuguese (Native)
