@@ -34,7 +34,7 @@ I’m also passionate about teaching and mentorship. I’ve taught programming t
 
 **Instructor** - Willian Justen Courses - May 2016 - Present
 
-> Creating courses about Web Development on Udemy, having more than **235k** **students** with some of the highest rated courses in the platform. You can see the [complete list here](https://www.udemy.com/user/willian-justen-de-vasconcellos/).
+> Creating courses about Web Development on Udemy, having more than **275k** **students** with some of the highest rated courses in the platform. You can see the [complete list here](https://www.udemy.com/user/willian-justen-de-vasconcellos/).
 
 **Sr Front-end Developer** - Toptal - December 2016 - April 2020
 
