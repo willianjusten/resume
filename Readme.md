@@ -1,23 +1,36 @@
 # Willian Justen de Vasconcellos
 
-**Location:** Petrópolis - RJ - Brazil
+**Location:** São Paulo - SP - Brazil
 
 **Personal Site**: [willianjusten.com.br](http://willianjusten.com.br)
 
 **E-mail:** willianjustenqui@gmail.com
 
+**LinkedIn**: [/in/willianjusten](https://www.linkedin.com/in/willianjusten)
+
 ## About me
 
-I'm a software engineer that loves to work with challenging and creative projects. As a programmer, I'm in a constant search for better practices and also experimenting new things.
+Software Engineer and GitHub Star with over 10 years of experience building scalable, user-focused web applications. I work mainly with React, Next.js, TypeScript, Redux, GraphQL, and monorepo architectures, and I enjoy being involved in the entire product lifecycle, from early ideas to production and long-term maintenance.
 
-I love to work and collaborate with teams and in my spare time, I like to write on my blog or teach my friends about something that I've learned.
+Over the years, I’ve worked on a wide range of projects, from creative interfaces built with SVG and Canvas to large platforms developed with React and Rails. More recently, I helped build a web-based builder focused on creating interactive user experiences that communicate directly with native mobile SDKs, enabling rich and dynamic behavior inside mobile applications. Part of this work included AI-assisted features to make building and iterating on experiences faster and more intuitive.
 
-## Awards
+I’m comfortable taking ownership, making technical and architectural decisions, and working closely with designers, product managers, and engineers to deliver high-quality results.
 
-- [GitHub Star](https://stars.github.com/profiles/willianjusten/)
-- [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5004209?fullName=Willian%20%20Justen%20de%20Vasconcellos)
+I’m also passionate about teaching and mentorship. I’ve taught programming to thousands of students, mentored developers at different stages of their careers, and supported teams as they grow. I’m naturally curious and always learning, and I enjoy exploring new tools and approaches to build better software and stronger teams.
 
 ## Work Experience
+
+**Staff Software Engineer** - Appcues - March 2022 - April 2025
+
+> Owned the technical direction and long-term evolution of a web-based experience builder built from scratch, integrating with native mobile SDKs (Swift, Kotlin, React Native, Flutter) to enable rich, interactive experiences inside mobile applications.
+
+> Led the design and implementation of a Push Notification builder, integrating with Elixir-based backend services and interfacing directly with Apple Push Notification Service (APNs) and Firebase Cloud Messaging (FCM).
+
+> Architected and maintained a behavioral email platform, including customization of a WYSIWYG editor and seamless integration with external providers to trigger emails based on user and system events.
+
+> Drove the evolution of the frontend platform and design system within a monorepo architecture, contributing to shared packages, defining standards, and improving documentation to support adoption across teams.
+
+> Unblocked teams through pair programming, architectural reviews, and technical discussions, helping align decisions and elevate overall product and engineering quality.
 
 **Instructor** - Willian Justen Courses - May 2016 - Present
 
